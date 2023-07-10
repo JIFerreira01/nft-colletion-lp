@@ -1,1 +1,2 @@
-# nft-colletion-lp
+## LANDING PAGE NFT COLLECTION
+# Landing Page in development to studyng
