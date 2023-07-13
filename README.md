@@ -1,2 +1,2 @@
 # LANDING PAGE NFT COLLECTION
- Landing Page in development to studyng
+ Layout downloaded in Figma Community for development in Next.JS
